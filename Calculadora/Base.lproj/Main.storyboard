@@ -238,7 +238,7 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <stackView opaque="NO" contentMode="scaleToFill" spacing="3" translatesAutoresizingMaskIntoConstraints="NO" id="UT6-22-U20">
-                                <rect key="frame" x="276" y="10" width="89" height="20"/>
+                                <rect key="frame" x="276" y="25" width="89" height="20"/>
                                 <subviews>
                                     <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="op-suma" translatesAutoresizingMaskIntoConstraints="NO" id="mZm-BW-Lgy">
                                         <rect key="frame" x="0.0" y="0.0" width="20" height="20"/>
@@ -277,7 +277,7 @@
                             <constraint firstItem="wfy-db-euE" firstAttribute="top" secondItem="lBr-sZ-XgF" secondAttribute="bottom" id="DCk-Qi-ya6"/>
                             <constraint firstAttribute="trailing" secondItem="UT6-22-U20" secondAttribute="trailing" constant="10" id="W7V-ds-OIO"/>
                             <constraint firstAttribute="trailing" secondItem="lBr-sZ-XgF" secondAttribute="trailing" id="YuC-yw-bJR"/>
-                            <constraint firstItem="UT6-22-U20" firstAttribute="top" secondItem="8bC-Xf-vdC" secondAttribute="top" constant="10" id="ZSO-v1-xkW"/>
+                            <constraint firstItem="UT6-22-U20" firstAttribute="top" secondItem="8bC-Xf-vdC" secondAttribute="top" constant="25" id="ZSO-v1-xkW"/>
                             <constraint firstAttribute="trailing" secondItem="NRF-zX-0cT" secondAttribute="trailing" constant="25" id="dAc-S3-Hmx"/>
                             <constraint firstItem="lBr-sZ-XgF" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leading" id="dEL-9B-eyf"/>
                             <constraint firstItem="lBr-sZ-XgF" firstAttribute="top" secondItem="NRF-zX-0cT" secondAttribute="bottom" constant="10" id="wqQ-TE-8U9"/>

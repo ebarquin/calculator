@@ -12,6 +12,7 @@
 		9CA10BAA1E1107B0002049D2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9CA10BA81E1107B0002049D2 /* Main.storyboard */; };
 		9CA10BAC1E1107B0002049D2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9CA10BAB1E1107B0002049D2 /* Assets.xcassets */; };
 		9CA10BAF1E1107B0002049D2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9CA10BAD1E1107B0002049D2 /* LaunchScreen.storyboard */; };
+		9CA10BB81E111B99002049D2 /* WorkSans-ExtraLight.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9CA10BB61E1107D9002049D2 /* WorkSans-ExtraLight.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -126,6 +127,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9CA10BB81E111B99002049D2 /* WorkSans-ExtraLight.ttf in Resources */,
 				9CA10BAF1E1107B0002049D2 /* LaunchScreen.storyboard in Resources */,
 				9CA10BAC1E1107B0002049D2 /* Assets.xcassets in Resources */,
 				9CA10BAA1E1107B0002049D2 /* Main.storyboard in Resources */,
