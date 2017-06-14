@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="11762" systemVersion="15G1212" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="11762" systemVersion="15G1510" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
     <device id="retina4_7" orientation="portrait">
         <adaptation id="fullscreen"/>
     </device>
@@ -28,7 +28,7 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" distribution="fillEqually" spacing="2" translatesAutoresizingMaskIntoConstraints="NO" id="lBr-sZ-XgF">
-                                <rect key="frame" x="0.0" y="184" width="375" height="473"/>
+                                <rect key="frame" x="0.0" y="194" width="375" height="473"/>
                                 <subviews>
                                     <stackView opaque="NO" contentMode="scaleToFill" distribution="fillEqually" spacing="1" translatesAutoresizingMaskIntoConstraints="NO" id="4Mn-XS-iIF">
                                         <rect key="frame" x="0.0" y="0.0" width="375" height="93"/>
@@ -369,7 +369,7 @@
                                 </variation>
                             </stackView>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="0" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumFontSize="40" translatesAutoresizingMaskIntoConstraints="NO" id="NRF-zX-0cT">
-                                <rect key="frame" x="120" y="89.5" width="230" height="84.5"/>
+                                <rect key="frame" x="120" y="99.5" width="230" height="84.5"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="84" id="LsM-kO-t3i"/>
                                 </constraints>
@@ -414,8 +414,8 @@
                         <color key="backgroundColor" red="0.29019607843137252" green="0.29019607843137252" blue="0.29019607843137252" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
                             <constraint firstItem="NRF-zX-0cT" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leading" constant="120" id="AXe-Wl-UOF"/>
-                            <constraint firstItem="wfy-db-euE" firstAttribute="top" secondItem="lBr-sZ-XgF" secondAttribute="bottom" constant="10" id="DCk-Qi-ya6"/>
                             <constraint firstItem="UT6-22-U20" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leading" constant="10" id="IWt-2v-MYC"/>
+                            <constraint firstItem="wfy-db-euE" firstAttribute="top" secondItem="lBr-sZ-XgF" secondAttribute="bottom" id="Rhn-Rj-0sD"/>
                             <constraint firstAttribute="trailing" secondItem="UT6-22-U20" secondAttribute="trailing" constant="10" id="W7V-ds-OIO"/>
                             <constraint firstAttribute="trailing" secondItem="lBr-sZ-XgF" secondAttribute="trailing" id="YuC-yw-bJR"/>
                             <constraint firstItem="UT6-22-U20" firstAttribute="top" secondItem="8bC-Xf-vdC" secondAttribute="top" constant="25" id="ZSO-v1-xkW"/>
